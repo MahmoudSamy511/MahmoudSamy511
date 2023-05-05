@@ -1,5 +1,5 @@
 <h1 align="center">Hi There! <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="26" /></h1>
-<h2 align="center"> Interested in electronics and technology in general, especially embedded systems. </h2>
+<h2 align="center"> Undergraduate Electrical Engineer , Interested in electronics and technology in general, especially embedded systems. </h2>
 <div align="center">
 
 
@@ -7,11 +7,12 @@
 
 
 
-# Skills
+  # Skills
 ![C](https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white)
 ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white)
 ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
 ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white)
+ #
 
  # Tools
 ![Visual Studio Code](https://img.shields.io/badge/Visual%20Studio%20Code-0078d7.svg?style=for-the-badge&logo=visual-studio-code&logoColor=white)
