@@ -1,9 +1,8 @@
-# Hi there,Iam Mahmoud 👋
 <div align="center">
+# Hi there,Iam Mahmoud 👋
 
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=MahmoudSamy511&show_icons=true&theme=highcontrast)
- 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=MahmoudSamy511&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
+
+
 
 
 
@@ -29,9 +28,9 @@
    <a href="mailto:mahmoudsamyzx11@gmail.com">
     <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white">
 
-
-
-
+# 
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=MahmoudSamy511&show_icons=true&theme=highcontrast)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=MahmoudSamy511&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
 
 
 
