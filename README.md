@@ -1,6 +1,6 @@
-<div align="center">
-# Hi there,Iam Mahmoud 👋
 
+ # Hi there,Iam Mahmoud 👋
+<div align="center">
 
 
 
@@ -30,6 +30,7 @@
 
 # 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=MahmoudSamy511&show_icons=true&theme=highcontrast)
+    
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=MahmoudSamy511&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
 
 
