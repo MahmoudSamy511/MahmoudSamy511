@@ -21,13 +21,10 @@
  # Social Accounts
   <a href="https://www.facebook.com/7oda.samy.72/">
     <img src="https://img.shields.io/badge/Facebook-%231877F2.svg?style=for-the-badge&logo=Facebook&logoColor=white"/>
-  </a>
    <a href="Mahmoud Samy#7636">
     <img src="https://img.shields.io/badge/Discord-%235865F2.svg?style=for-the-badge&logo=discord&logoColor=white"/>
-  </a>
    <a href="https://www.linkedin.com/in/mahmoud-samy-519986125/">
     <img src="https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white"/>
-  </a>
    <a href="mahmoudsamyzx11@gmail.com">
     <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
   </a>
