@@ -28,8 +28,8 @@
     <img src="https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white" />
    <a href="mailto:mahmoudsamyzx11@gmail.com">
     <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white">
+  </a>
 
-# 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=MahmoudSamy511&show_icons=true&theme=highcontrast)
     
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=MahmoudSamy511&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
