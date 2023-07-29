@@ -11,13 +11,13 @@
 - Undergraduate Computer and Systems Engineer , Interested in electronics and technology in general, especially Embedded Systems.
 
 
-### 💻&nbsp; Languages
+## 💻&nbsp; Languages
 ![C](https://img.shields.io/badge/c-%2300599C.svg?style=flate&logo=c&logoColor=white)
 ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=flat&logo=openjdk&logoColor=white)
 ![Python](https://img.shields.io/badge/python-3670A0?style=flat&logo=python&logoColor=ffdd54)
 
 
-### 🛠 Tools
+## 🛠 Tools
 ![Visual Studio Code](https://img.shields.io/badge/Visual%20Studio%20Code-0078d7.svg?style=flat&logo=visual-studio-code&logoColor=white)
 ![PyCharm](https://img.shields.io/badge/pycharm-143?style=flat&logo=pycharm&logoColor=black&color=black&labelColor=green)
 ![Eclipse](https://img.shields.io/badge/Eclipse-FE7A16.svg?style=flat&logo=Eclipse&logoColor=white)
