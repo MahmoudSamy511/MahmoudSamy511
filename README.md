@@ -3,6 +3,7 @@
     <a href="https://www.linkedin.com/in/mohamedabusrea"><img src="https://img.shields.io/badge/linkedin-%230177B5?style=flat&logo=linkedin&logoColor=white"/></a>
     <a href="https://www.facebook.com/7oda.samy.72/"><img src="https://img.shields.io/badge/Facebook-%231877F2.svg?style=flat&logo=Facebook&logoColor=white"/></a>
     <a href="mailto:mahmoudsamyzx11@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=flat&logo=gmail&logoColor=white""/></a>
+    <a href="https://discordapp.com/users/602878581772779520"><img src="https://img.shields.io/badge/Discord-D14836?style=flat&logo=discord&logoColor=white""/></a>
   </p>
     <img src="https://media0.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif?cid=6c09b9525nx2hasiq6pptd30pbjk44r135tt34h1r2nbgsq6&ep=v1_internal_gif_by_id&rid=giphy.gif&ct=g" align="right" width="25%"/>
     
