@@ -1,6 +1,6 @@
 <h1 align="center">Hi, I'm Mahmoud 👋</h1>
 <p align="center">
-    <a href="https://www.linkedin.com/in/mohamedabusrea"><img src="https://img.shields.io/badge/linkedin-%230177B5?style=flat&logo=linkedin&logoColor=white"/></a>
+    <a href="https://www.linkedin.com/in/mahmoud-samy-519986125"><img src="https://img.shields.io/badge/linkedin-%230177B5?style=flat&logo=linkedin&logoColor=white"/></a>
     <a href="https://www.facebook.com/7oda.samy.72/"><img src="https://img.shields.io/badge/Facebook-%231877F2.svg?style=flat&logo=Facebook&logoColor=white"/></a>
     <a href="mailto:mahmoudsamyzx11@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=flat&logo=gmail&logoColor=white""/></a>
     <a href="https://discordapp.com/users/602878581772779520"><img src="https://img.shields.io/badge/Discord-4634f0?logo=discord&logoColor=white&style=flat"/></a>
