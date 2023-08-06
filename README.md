@@ -11,22 +11,27 @@
 - Undergraduate Computer and Systems Engineer , Interested in electronics and technology in general, especially Embedded Systems.
 
 
-## 💻&nbsp; Languages
+## 💻🛠 &nbsp; Languages & Tools
 ![C](https://img.shields.io/badge/c-%2300599C.svg?style=flate&logo=c&logoColor=white)
 ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=flat&logo=openjdk&logoColor=white)
 ![Python](https://img.shields.io/badge/python-3670A0?style=flat&logo=python&logoColor=ffdd54)
-
-
-## 🛠 Tools
 ![Visual Studio Code](https://img.shields.io/badge/Visual%20Studio%20Code-0078d7.svg?style=flat&logo=visual-studio-code&logoColor=white)
 ![PyCharm](https://img.shields.io/badge/pycharm-143?style=flat&logo=pycharm&logoColor=black&color=black&labelColor=green)
 ![Eclipse](https://img.shields.io/badge/Eclipse-FE7A16.svg?style=flat&logo=Eclipse&logoColor=white)
 ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=flat&logo=git&logoColor=white)
-  
-     
-### 🎯 GitHub Stats 
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=MahmoudSamy511&show_icons=true&theme=highcontrast)
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=MahmoudSamy511&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
+![Arduino](https://img.shields.io/badge/Arduino_IDE-00979D?style=flat&logo=arduino&logoColor=white)
+![Intellij](https://img.shields.io/badge/IntelliJ_IDEA-1039f2.svg?style=flat&logo=intellij-idea&logoColor=white)
+
+
+### 🎯 GitHub Stats ![GitHub stars](https://img.shields.io/github/stars/MahmoudSamy511/StrapDown.js.svg?style=social&label=Star&maxAge=2592000) ![GitHub Watchers](https://badgen.net/github/watchers/Naereen/Strapdown.js/)
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=MahmoudSamy511&show_icons=true&theme=dark)
+![Streak Stats](https://github-readme-streak-stats.herokuapp.com/?user={MahmoudSamy511}&theme=dark)
+<p align="center">
+    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=MahmoudSamy511&layout=compact&theme=dark"></a>
+    
+<p align="center">
+
+
 
 
               
