@@ -23,11 +23,8 @@
 ![Intellij](https://img.shields.io/badge/IntelliJ_IDEA-1039f2.svg?style=flat&logo=intellij-idea&logoColor=white)
 
 ### 🎯 GitHub Stats <p align="center"> 
-<p align="center">
+<p align="left">
     <img src="https://github-readme-stats.vercel.app/api?username=MahmoudSamy511&show_icons=true&theme=dark"></a>
-<p align="center">
-     <img src="https://github-readme-streak-stats.herokuapp.com/?user={MahmoudSamy511}&theme=dark"></a>
-<p align="center">
     <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=MahmoudSamy511&layout=compact&theme=dark"></a>
 <!--![GitHub stars](https://img.shields.io/github/stars/MahmoudSamy511/StrapDown.js.svg?style=social&label=Star&maxAge=2592000)--> 
 <!--![GitHub Watchers](https://badgen.net/github/watchers/MahmoudSamy511/Strapdown.js/)-->
