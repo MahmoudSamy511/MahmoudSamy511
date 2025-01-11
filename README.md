@@ -5,7 +5,7 @@
     <a href="mailto:mahmoudsamyzx11@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=flat&logo=gmail&logoColor=white""/></a>
     <a href="https://discordapp.com/users/602878581772779520"><img src="https://img.shields.io/badge/Discord-4634f0?logo=discord&logoColor=white&style=flat"/></a>
   </p>
-    <img src="https://media0.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif?cid=6c09b9525nx2hasiq6pptd30pbjk44r135tt34h1r2nbgsq6&ep=v1_internal_gif_by_id&rid=giphy.gif&ct=g" align="right" width="35%"/>
+<!--     <img src="https://media0.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif?cid=6c09b9525nx2hasiq6pptd30pbjk44r135tt34h1r2nbgsq6&ep=v1_internal_gif_by_id&rid=giphy.gif&ct=g" align="right" width="35%"/> -->
     
 ## ✨&nbsp; About Me
 - Undergraduate Computer and Systems Engineer , Interested in electronics and technology in general, especially Embedded Systems.
